@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1slide.unity
+    guid: 1310a43bed70ae44bba8ca5cc0bfca72
+  - enabled: 1
+    path: Assets/Scenes/2slide.unity
+    guid: 22ebeebda3c4306428a0f6b34d222014
+  - enabled: 1
+    path: Assets/Scenes/2slide2.unity
+    guid: b73f5b04ad353254a9d9e1007d0d1660
+  - enabled: 1
+    path: Assets/Scenes/2slide3.unity
+    guid: b4facd882d45e954ab182d61388a36ee
+  - enabled: 1
+    path: Assets/Scenes/3slide.unity
+    guid: 7f84d547d24e70a42a8cb8d8b474999a
+  - enabled: 1
+    path: Assets/Scenes/4slide.unity
+    guid: 48c81fd4071043c4ea407612fbe82ddb
+  - enabled: 1
+    path: Assets/Scenes/5slide.unity
+    guid: acb92f8e1731d484297291ba92a8bcb1
+  - enabled: 1
+    path: Assets/Scenes/6slide.unity
+    guid: 88db5a651e77a1a4699f737b256ad397
+  - enabled: 1
+    path: Assets/Scenes/7slide.unity
+    guid: 927efdda9de2d7847843408559d4ade9
+  - enabled: 1
+    path: Assets/Scenes/8a lot long.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/8a lot short.unity
+    guid: d9d5332105b00594eb31ba29228c0b23
+  - enabled: 1
+    path: Assets/Scenes/9slideA.unity
+    guid: 439fbd16a5504e84e911d7e8d206b2ca
+  - enabled: 1
+    path: Assets/Scenes/9slideB.unity
+    guid: a9476677c6556094ba1361dc97d3d8f4
+  - enabled: 1
+    path: Assets/Scenes/10a few long.unity
+    guid: d270b35f42366fb448ec2a7cbea69492
+  - enabled: 1
+    path: Assets/Scenes/10a few short.unity
+    guid: 493fa5d184803664eb08cbdc14a4d155
+  - enabled: 1
+    path: Assets/Scenes/10afterslide.unity
+    guid: 7f229e1a33d9bd147bff854bcfce9623
+  - enabled: 1
+    path: Assets/Scenes/11slide.unity
+    guid: 715ea83d5daa7b446876c3c48d76e9c2
+  - enabled: 1
+    path: Assets/Scenes/12slide.unity
+    guid: d79a6691c7466bd4eb5f8021631662dd
+  - enabled: 1
+    path: Assets/Scenes/13slide.unity
+    guid: 7798ce8d2cf32b0449a1167e0f661588
+  - enabled: 1
+    path: Assets/Scenes/14slide.unity
+    guid: de1a1fce794000341b844e2e9dc5f55f
+  - enabled: 1
+    path: Assets/Scenes/15slide.unity
+    guid: b1f7dfdda0fd4e84ba659e7310228948
+  - enabled: 1
+    path: Assets/Scenes/best.unity
+    guid: a21bf6332b481b544b12d6f1328ed29c
+  - enabled: 1
+    path: Assets/Scenes/normal.unity
+    guid: 5db5ab0df9c9f064bbff24945bce9ef2
+  - enabled: 1
+    path: Assets/Scenes/bad.unity
+    guid: bbd6eab44f2e5144fb26d66855dc6d8a
+  m_configObjects: {}
